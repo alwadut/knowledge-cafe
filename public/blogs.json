@@ -16,7 +16,7 @@
         "author_img": "https://i.ibb.co.com/6JBy8Sqt/boy2.jpg",
         "posted": "2025-04-09",
         "time": "2:15 PM",
-        "reading_time": "5 min",
+        "reading_time": "7 min",
         "hashtag": "#JavaScript"
     },
     
@@ -27,7 +27,7 @@
         "author_img": "https://i.ibb.co.com/4nZW7SJH/girl1.jpg",
         "posted": "2025-04-08",
         "time": "5:45 PM",
-        "reading_time": "5 min",
+        "reading_time": "9 min",
         "hashtag": "#WebDevelopment"
     },
     {
@@ -37,7 +37,7 @@
         "author_img": "https://i.ibb.co.com/Z66WkMwB/2.png",
         "posted": "2025-04-07",
         "time": "9:00 AM",
-        "reading_time": "5 min",
+        "reading_time": "6 min",
         "hashtag": "#CSS"
     },
     {
@@ -47,7 +47,7 @@
         "author_img": "https://example.com/author5.jpg",
         "posted": "2025-04-06",
         "time": "11:20 AM",
-        "reading_time": "5 min",
+        "reading_time": "8 min",
         "hashtag": "#TailwindCSS"
     }
 ]
