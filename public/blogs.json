@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/ds4VcvHN/3.pn",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/sp6xvms9/boy1.png",
+        "posted": "2025-04-10",
+        "time": "10:30 AM",
+        "reading_time": "5 min",
+        "hashtag": "#React"
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/93t1Nm5m/4.jpg",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/6JBy8Sqt/boy2.jpg",
+        "posted": "2025-04-09",
+        "time": "2:15 PM",
+        "reading_time": "5 min",
+        "hashtag": "#JavaScript"
+    },
+    
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/SDwGkZRG/1.jpg",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/4nZW7SJH/girl1.jpg",
+        "posted": "2025-04-08",
+        "time": "5:45 PM",
+        "reading_time": "5 min",
+        "hashtag": "#WebDevelopment"
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/WWdmCx9G/girl2.jpg",
+        "author": "Bob Brown",
+        "author_img": "https://i.ibb.co.com/Z66WkMwB/2.png",
+        "posted": "2025-04-07",
+        "time": "9:00 AM",
+        "reading_time": "5 min",
+        "hashtag": "#CSS"
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/cover5.jpg",
+        "author": "Emily Davis",
+        "author_img": "https://example.com/author5.jpg",
+        "posted": "2025-04-06",
+        "time": "11:20 AM",
+        "reading_time": "5 min",
+        "hashtag": "#TailwindCSS"
+    }
+]
