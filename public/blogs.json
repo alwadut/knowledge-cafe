@@ -1,13 +1,14 @@
 [
     {
         "id": 1,
-        "cover": "https://i.ibb.co.com/ds4VcvHN/3.pn",
+        "cover": "https://i.ibb.co.com/Kx4fjcjx/25703.jpg",
         "author": "John Doe",
         "author_img": "https://i.ibb.co.com/sp6xvms9/boy1.png",
         "posted": "2025-04-10",
         "time": "10:30 AM",
         "reading_time": "5 min",
-        "hashtag": "#React"
+        "hashtag": "#React",
+        "title": "Understanding React Basics"
     },
     {
         "id": 2,
@@ -17,37 +18,40 @@
         "posted": "2025-04-09",
         "time": "2:15 PM",
         "reading_time": "7 min",
-        "hashtag": "#JavaScript"
+        "hashtag": "#JavaScript",
+        "title": "Mastering JavaScript ES6 Features"
     },
-    
     {
         "id": 3,
-        "cover": "https://i.ibb.co.com/SDwGkZRG/1.jpg",
+        "cover": "https://i.ibb.co.com/Z66WkMwB/2.png",
         "author": "Alice Johnson",
         "author_img": "https://i.ibb.co.com/4nZW7SJH/girl1.jpg",
         "posted": "2025-04-08",
         "time": "5:45 PM",
         "reading_time": "9 min",
-        "hashtag": "#WebDevelopment"
+        "hashtag": "#WebDevelopment",
+        "title": "A Guide to Modern Web Development"
     },
     {
         "id": 4,
-        "cover": "https://i.ibb.co.com/WWdmCx9G/girl2.jpg",
+        "cover": " https://i.ibb.co.com/SDwGkZRG/1.jpg",
         "author": "Bob Brown",
-        "author_img": "https://i.ibb.co.com/Z66WkMwB/2.png",
+        "author_img": "https://i.ibb.co.com/WWdmCx9G/girl2.jpg",
         "posted": "2025-04-07",
         "time": "9:00 AM",
         "reading_time": "6 min",
-        "hashtag": "#CSS"
+        "hashtag": "#CSS",
+        "title": "CSS Tips and Tricks for Beginners"
     },
     {
         "id": 5,
-        "cover": "https://example.com/cover5.jpg",
+        "cover": "https://i.ibb.co.com/ds4VcvHN/3.png",
         "author": "Emily Davis",
-        "author_img": "https://example.com/author5.jpg",
+        "author_img": "https://i.ibb.co.com/Kpq1mBZP/profile.png",
         "posted": "2025-04-06",
         "time": "11:20 AM",
         "reading_time": "8 min",
-        "hashtag": "#TailwindCSS"
+        "hashtag": "#TailwindCSS",
+        "title": "Getting Started with TailwindCSS"
     }
 ]
