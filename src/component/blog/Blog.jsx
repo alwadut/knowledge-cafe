@@ -1,10 +1,12 @@
 import { CiBookmark } from "react-icons/ci";
 import PropTypes from 'prop-types';
 
-const Blog = ({ blog,HandleAddTobookMark }) => {
-   const {title,author_img,author,reading_time,cover,posted,hashtag} =blog;
+const Blog = ({ blog,HandleAddTobookMark,handleMarkAsRead }) => {
+   
+    
+   const {id,title,author_img,author,cover,reading_time,posted,hashtag} =blog;
     return (
-        <div className='mb-20'>
+        <div className='mb-20 '>
             <img className='mb-5 w-full border-4 border-amber-200 rounded-2xl ' src={cover} alt="Cover picture" />
             <div className='flex justify-between'>
                 <div className='flex gap-2'>
@@ -35,6 +37,8 @@ const Blog = ({ blog,HandleAddTobookMark }) => {
                 }
              </p>
            
+             <button onClick={()=> handleMarkAsRead(reading_time,id)}
+              className="text-purple-400 underline font-bold">Mark as read </button>
             </div>
         
     );

@@ -6,7 +6,7 @@
         "author_img": "https://i.ibb.co.com/sp6xvms9/boy1.png",
         "posted": "2025-04-10",
         "time": "10:30 AM",
-        "reading_time": "5 min",
+        "reading_time": 5 ,
         "hashtag": "#React",
         "title": "Understanding React Basics"
     },
@@ -17,7 +17,7 @@
         "author_img": "https://i.ibb.co.com/6JBy8Sqt/boy2.jpg",
         "posted": "2025-04-09",
         "time": "2:15 PM",
-        "reading_time": "7 min",
+        "reading_time": 7 ,
         "hashtag": "#JavaScript",
         "title": "Mastering JavaScript ES6 Features"
     },
@@ -28,7 +28,7 @@
         "author_img": "https://i.ibb.co.com/4nZW7SJH/girl1.jpg",
         "posted": "2025-04-08",
         "time": "5:45 PM",
-        "reading_time": "9 min",
+        "reading_time": 9 ,
         "hashtag": "#WebDevelopment",
         "title": "A Guide to Modern Web Development"
     },
@@ -39,7 +39,7 @@
         "author_img": "https://i.ibb.co.com/WWdmCx9G/girl2.jpg",
         "posted": "2025-04-07",
         "time": "9:00 AM",
-        "reading_time": "6 min",
+        "reading_time": 6 ,
         "hashtag": "#CSS",
         "title": "CSS Tips and Tricks for Beginners"
     },
@@ -50,7 +50,7 @@
         "author_img": "https://i.ibb.co.com/Kpq1mBZP/profile.png",
         "posted": "2025-04-06",
         "time": "11:20 AM",
-        "reading_time": "8 min",
+        "reading_time": 8 ,
         "hashtag": "#TailwindCSS",
         "title": "Getting Started with TailwindCSS"
     }
